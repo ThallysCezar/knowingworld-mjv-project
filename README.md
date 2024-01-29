@@ -13,7 +13,7 @@ This project is a simple Java example that demonstrates how to read data from a 
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/repository-name.git
+    git clone https://github.com/ThallysCezar/knowingworld-mjv-project
     ```
 
 2. Compile and run the program:
@@ -39,4 +39,4 @@ This project is a simple Java example that demonstrates how to read data from a 
 
 ## Contributions
 
-Contributions are welcome! If you find issues or have suggestions, feel free to open an [issue](https://github.com/your-username/repository-name/issues).
+Contributions are welcome! If you find issues or have suggestions, feel free to open an [issue](https://github.com/ThallysCezar/knowingworld-mjv-project/issues).
